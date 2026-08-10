@@ -23,9 +23,4 @@ A collection of Python programs and projects created for learning, practice, and
 - Python
 - Tkinter
 
-## 🚀 How to Run
 
-Clone the repository:
-
-```bash
-git clone <repository-url>
